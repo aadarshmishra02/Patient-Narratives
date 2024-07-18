@@ -1,4 +1,5 @@
 # Patient-Narratives
+![from-code-to-clinical-trials-mid-info](https://github.com/user-attachments/assets/dc2319f7-8297-4933-afb5-90fddcb279df)
 Narratives about patients’ experiences with health care contain a wealth of information
 about what is important to patients and are valuable in contextualizing and improving patient
 experience. Patients provide narrative descriptions of their experiences in a range of settings,
