@@ -1,0 +1,12 @@
+import mysql.connector
+
+ad=mysql.connector.connect(
+    host="localhost",
+    user="room",
+    password="1234"
+)
+print(ad)
+
+mycursor = ad.cursor()
+
+mycursor.execute("CREATE DATABASE student")
